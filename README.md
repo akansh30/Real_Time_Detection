@@ -32,3 +32,7 @@ docker build -t real-time-detection .
 ```
 docker run --gpus all -it real-time-detection
 ```
+# Output
+Displays real-time object detection and tracking with unique IDs.
+
+Detects and logs missing and new objects.
